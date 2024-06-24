@@ -29,5 +29,5 @@
 7. And ur redy to go
 
 # Installation
-1. Download Python
+1. Download [Python](https://www.python.org/downloads/)
 2. Download the latest release
