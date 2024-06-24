@@ -1,0 +1,1166 @@
+ 
+[2024-06-22 10:49:44] INFO: console was cleared
+[2024-06-22 10:49:44] INFO: printed mooner logo
+[2024-06-22 10:49:44] INFO: printed options
+[2024-06-22 10:49:49] INFO: printed option chooser
+[2024-06-22 10:49:49] INFO: chose spammer (3)
+[2024-06-22 10:49:53] INFO: put in channel id
+[2024-06-22 10:50:16] INFO: put in message content
+[2024-06-22 10:50:18] INFO: put in repeat count
+[2024-06-22 10:50:21] INFO: returned
+[2024-06-22 10:50:21] INFO: console was cleared
+[2024-06-22 10:50:21] INFO: printed mooner logo
+[2024-06-22 10:50:21] INFO: printed options
+[2024-06-22 10:50:24] INFO: printed option chooser
+[2024-06-22 10:50:24] INFO: chose webhook spammer (5)
+[2024-06-22 10:51:15] INFO: put in message
+[2024-06-22 10:51:19] INFO: put in repeat count
+[2024-06-22 10:51:22] INFO: returned
+[2024-06-22 10:51:22] INFO: console was cleared
+[2024-06-22 10:51:22] INFO: printed mooner logo
+[2024-06-22 10:51:22] INFO: printed options
+[2024-06-22 10:51:24] INFO: printed option chooser
+[2024-06-22 10:51:24] INFO: chose webhook spammer (5)
+[2024-06-22 10:51:25] INFO: put in message
+[2024-06-22 10:51:27] INFO: put in repeat count
+[2024-06-22 10:51:30] INFO: returned
+[2024-06-22 10:51:31] INFO: console was cleared
+[2024-06-22 10:51:31] INFO: printed mooner logo
+[2024-06-22 10:51:31] INFO: printed options
+[2024-06-22 10:51:39] INFO: printed option chooser
+[2024-06-22 10:51:39] INFO: chose leaver (2)
+[2024-06-22 10:51:41] INFO: put in guild id (leaver)
+[2024-06-22 10:51:44] INFO: returned
+[2024-06-22 10:51:44] INFO: console was cleared
+[2024-06-22 10:51:44] INFO: printed mooner logo
+[2024-06-22 10:51:44] INFO: printed options
+[2024-06-22 10:53:14] INFO: console was cleared
+[2024-06-22 10:53:14] INFO: printed mooner logo
+[2024-06-22 10:53:14] INFO: printed options
+[2024-06-22 10:53:17] INFO: printed option chooser
+[2024-06-22 10:53:17] INFO: chose webhook spammer (5)
+[2024-06-22 10:53:19] INFO: put in message
+[2024-06-22 10:53:21] INFO: put in repeat count
+[2024-06-22 10:53:22] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:22] INFO: webhook spammer succes
+[2024-06-22 10:53:23] INFO: webhook spammer succes
+[2024-06-22 10:53:26] INFO: returned
+[2024-06-22 10:53:27] INFO: console was cleared
+[2024-06-22 10:53:27] INFO: printed mooner logo
+[2024-06-22 10:53:27] INFO: printed options
+[2024-06-22 10:53:32] INFO: printed option chooser
+[2024-06-22 10:53:32] INFO: chose webhook spammer (5)
+[2024-06-22 10:53:37] INFO: put in message
+[2024-06-22 10:53:39] INFO: put in repeat count
+[2024-06-22 10:53:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer succes
+[2024-06-22 10:53:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:40] INFO: webhook spammer succes
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:41] INFO: webhook spammer succes
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:41] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:44] INFO: returned
+[2024-06-22 10:53:45] INFO: console was cleared
+[2024-06-22 10:53:45] INFO: printed mooner logo
+[2024-06-22 10:53:45] INFO: printed options
+[2024-06-22 10:53:46] INFO: printed option chooser
+[2024-06-22 10:53:46] INFO: chose webhook spammer (5)
+[2024-06-22 10:53:57] INFO: put in message
+[2024-06-22 10:53:59] INFO: put in repeat count
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer succes
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:53:59] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:00] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer succes
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:01] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:02] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer succes
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:03] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:04] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:05] INFO: webhook spammer succes
+[2024-06-22 10:54:05] INFO: webhook spammer invalid webhook
+[2024-06-22 10:54:08] INFO: returned
+[2024-06-22 10:54:09] INFO: console was cleared
+[2024-06-22 10:54:09] INFO: printed mooner logo
+[2024-06-22 10:54:09] INFO: printed options
+[2024-06-22 10:56:16] INFO: console was cleared
+[2024-06-22 10:56:16] INFO: printed mooner logo
+[2024-06-22 10:56:16] INFO: printed options
+[2024-06-22 10:56:17] INFO: printed option chooser
+[2024-06-22 10:56:17] INFO: chose webhook spammer (5)
+[2024-06-22 10:56:56] INFO: put in message
+[2024-06-22 10:57:02] INFO: console was cleared
+[2024-06-22 10:57:02] INFO: printed mooner logo
+[2024-06-22 10:57:02] INFO: printed options
+[2024-06-22 10:57:02] INFO: printed option chooser
+[2024-06-22 10:57:02] INFO: chose webhook spammer (5)
+[2024-06-22 10:57:29] INFO: put in message
+[2024-06-22 10:57:32] INFO: put in repeat count
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer succes
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:33] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:34] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer succes
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:35] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:36] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer succes
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:37] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:38] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer succes
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:39] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:40] INFO: webhook spammer invalid webhook
+[2024-06-22 10:57:43] INFO: returned
+[2024-06-22 10:57:43] INFO: console was cleared
+[2024-06-22 10:57:43] INFO: printed mooner logo
+[2024-06-22 10:57:43] INFO: printed options
+[2024-06-22 10:58:20] INFO: console was cleared
+[2024-06-22 10:58:20] INFO: printed mooner logo
+[2024-06-22 10:58:20] INFO: printed options
+[2024-06-22 10:58:21] INFO: printed option chooser
+[2024-06-22 10:58:21] INFO: chose webhook spammer (5)
+[2024-06-22 10:58:22] INFO: put in message
+[2024-06-22 10:58:26] INFO: put in repeat count
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:26] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer succes
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:27] INFO: webhook spammer invalid webhook
+[2024-06-22 10:58:30] INFO: returned
+[2024-06-22 10:58:30] INFO: console was cleared
+[2024-06-22 10:58:30] INFO: printed mooner logo
+[2024-06-22 10:58:30] INFO: printed options
+[2024-06-22 11:00:29] INFO: console was cleared
+[2024-06-22 11:00:29] INFO: printed mooner logo
+[2024-06-22 11:00:29] INFO: printed options
+[2024-06-22 11:00:30] INFO: printed option chooser
+[2024-06-22 11:00:30] INFO: chose webhook spammer (5)
+[2024-06-22 11:00:31] INFO: put in message
+[2024-06-22 11:00:35] INFO: put in repeat count
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:35] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer succes
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:36] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer succes
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:37] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:38] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:46] INFO: console was cleared
+[2024-06-22 11:00:46] INFO: printed mooner logo
+[2024-06-22 11:00:46] INFO: printed options
+[2024-06-22 11:00:47] INFO: printed option chooser
+[2024-06-22 11:00:47] INFO: chose webhook spammer (5)
+[2024-06-22 11:00:48] INFO: put in message
+[2024-06-22 11:00:48] INFO: put in repeat count
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:48] INFO: webhook spammer succes
+[2024-06-22 11:00:49] INFO: webhook spammer succes
+[2024-06-22 11:00:49] INFO: webhook spammer succes
+[2024-06-22 11:00:49] INFO: webhook spammer succes
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer invalid webhook
+[2024-06-22 11:00:49] INFO: webhook spammer succes
+[2024-06-22 11:01:14] INFO: console was cleared
+[2024-06-22 11:01:14] INFO: printed mooner logo
+[2024-06-22 11:01:14] INFO: printed options
+[2024-06-22 11:01:15] INFO: printed option chooser
+[2024-06-22 11:01:15] INFO: chose webhook spammer (5)
+[2024-06-22 11:01:15] INFO: put in message
+[2024-06-22 11:01:17] INFO: put in repeat count
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer succes
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:18] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:19] INFO: webhook spammer invalid webhook
+[2024-06-22 11:01:19] INFO: webhook spammer succes
